@@ -1,0 +1,6 @@
+"measure","value"
+"documents","21394"
+"documents without author keywords","4091"
+"distinct terms after cleaning","23307"
+"terms with at least 50 documents","171"
+"terms with at least 30, 75, 100 documents","313, 104, 73"

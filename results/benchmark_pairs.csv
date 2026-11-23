@@ -1,0 +1,25 @@
+"type","a","b","documents"
+"close in meaning","sprain","ankle sprain",0
+"close in meaning","muscle strength","strength",0
+"close in meaning","pediatrics","pediatric",0
+"close in meaning","elite athlete","athlete",0
+"close in meaning","musculoskeletal injury","muscle injury",0
+"close in meaning","athletics","athletic performance",0
+"close in meaning","hamstring injury","shoulder injury",0
+"close in meaning","hamstring","knee injury",0
+"close in meaning","shoulder injury","muscle injury",0
+"close in meaning","sprain","knee injury",0
+"close in meaning","ankle sprain","knee injury",0
+"close in meaning","ankle injury","hamstring",0
+"close in co-occurrence","low back pain","prevalence",5
+"close in co-occurrence","psychological readiness","anterior cruciate ligament reconstruction",25
+"close in co-occurrence","dislocation","psychological readiness",2
+"close in co-occurrence","imaging","chronic traumatic encephalopathy",2
+"close in co-occurrence","imaging","injury mechanism",3
+"close in co-occurrence","low back pain","risk factor",7
+"close in co-occurrence","sex difference","injury surveillance",2
+"close in co-occurrence","adolescent athlete","low back pain",1
+"close in co-occurrence","injury mechanism","psychological readiness",2
+"close in co-occurrence","randomized controlled trial","range of motion",1
+"close in co-occurrence","dental trauma","handball",2
+"close in co-occurrence","sex difference","chronic traumatic encephalopathy",1

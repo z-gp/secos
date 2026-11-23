@@ -1,0 +1,172 @@
+"term","documents","louvain","kmeans_sbert","kmeans_mca","hdbscan_sbert","shared_with_mca"
+"sports injury",2621,1,1,6,2,0.25
+"anterior cruciate ligament",1033,2,7,3,2,0.205
+"concussion",883,3,1,8,2,0.6
+"epidemiology",881,1,4,7,0,0.21
+"injury prevention",860,1,1,7,2,0.195
+"rehabilitation",817,4,5,6,2,0.055
+"athlete",745,2,3,6,2,0
+"return to sport",638,5,3,3,0,0.01
+"knee",527,2,7,3,2,0.05
+"adolescent",524,1,8,7,0,0.1
+"prevention",459,1,4,7,0,0.155
+"sports medicine",448,2,3,6,2,0
+"soccer",444,1,3,7,2,0
+"football",429,1,3,7,2,0
+"anterior cruciate ligament reconstruction",408,5,7,3,0,0.1
+"biomechanics",372,4,6,6,0,0.1
+"traumatic brain injury",371,3,1,8,2,0.6
+"magnetic resonance imaging",369,2,5,1,0,0.24
+"trauma",357,2,1,1,2,0.055
+"children",343,1,8,7,0,0.26
+"risk factor",334,1,4,7,0,0.175
+"mild traumatic brain injury",316,3,1,8,2,0.6
+"return to play",280,2,5,6,0,0.015
+"knee injury",271,4,7,6,2,0.1
+"shoulder",233,2,7,1,2,0.2
+"fracture",231,2,1,1,0,0.065
+"pediatric",222,2,8,1,0,0.09
+"anterior cruciate ligament injury",217,4,7,6,2,0.1
+"physical therapy",201,4,2,6,2,0.205
+"ankle",200,2,7,5,2,0.2
+"head injury",177,3,1,8,2,0.6
+"electromyography",170,4,6,6,0,0.1
+"ultrasound",169,2,5,1,0,0.285
+"running",168,4,3,6,0,0
+"muscle injury",166,2,7,6,2,0.03
+"overuse injury",164,1,1,7,2,0.155
+"injury risk",163,1,1,7,2,0.1
+"incidence",161,1,4,7,0,0.26
+"lower extremity",158,4,7,6,2,0
+"pain",157,6,7,6,0,0.13
+"performance",154,1,5,7,0,0.1
+"hamstring",148,2,7,6,2,0.225
+"resistance training",148,1,2,6,2,0.135
+"training",147,1,2,6,0,0.105
+"rugby",146,1,3,7,2,0
+"sport related concussion",146,3,1,8,2,0.4
+"youth",144,1,8,7,0,0
+"brain injury",142,3,1,8,2,0.5
+"ankle sprain",138,4,7,6,2,0.195
+"basketball",136,1,3,7,2,0
+"osteoarthritis",134,2,7,3,2,0.185
+"arthroscopy",133,2,7,3,2,0.235
+"kinematics",132,4,6,2,0,0.305
+"female",130,1,8,7,0,0.1
+"muscle",123,2,2,1,2,0
+"fatigue",121,4,4,6,1,0.005
+"female athlete",121,1,3,7,2,0.21
+"musculoskeletal injury",120,1,1,7,2,0.055
+"strength",120,4,2,6,0,0.2
+"wounds and injury",116,1,1,6,2,0.105
+"team sport",115,1,3,7,2,0.18
+"balance",113,4,5,6,0,0.13
+"injury surveillance",112,1,1,7,0,0.205
+"muscle strength",111,4,2,6,2,0.135
+"prevalence",109,1,4,7,0,0.05
+"ankle injury",106,4,7,6,2,0.3
+"youth sport",106,1,3,7,2,0.13
+"ligament",105,2,7,5,2,0.21
+"tendon",105,2,7,5,2,0.22
+"proprioception",104,4,6,6,0,0.23
+"recovery",103,7,5,7,0,0.005
+"martial art",101,7,2,7,0,0.255
+"mouthguard",101,3,5,7,0,0.105
+"pediatrics",99,2,8,1,0,0.275
+"athletic performance",98,1,3,6,2,0.12
+"elbow",98,2,7,1,2,0.205
+"reconstruction",98,2,5,3,0,0.245
+"platelet rich plasma",97,2,5,1,0,0.075
+"machine learning",96,8,5,6,0,0.055
+"systematic review",96,6,5,6,0,0.145
+"treatment",96,2,5,1,0,0.22
+"ice hockey",94,3,3,8,2,0.08
+"stress fracture",94,1,1,6,0,0.13
+"outcome",90,2,5,1,0,0.15
+"inflammation",88,7,7,6,0,0.15
+"surgery",88,2,5,3,0,0.15
+"covid 19",87,2,4,1,0,0.085
+"volleyball",87,1,3,7,2,0.1
+"meniscus",86,2,7,3,0,0.325
+"quality of life",86,4,4,6,0,0.13
+"baseball",83,2,3,6,2,0
+"health",82,1,4,7,2,0.03
+"hip",82,2,6,3,0,0.1
+"musculoskeletal",82,1,6,6,2,0
+"psychological readiness",82,5,4,3,0,0
+"psychology",82,6,4,6,1,0
+"gender",81,1,8,6,0,0.1
+"sports injury prevention",81,1,1,7,2,0.305
+"skiing",79,3,3,4,0,0.1
+"tendinopathy",79,2,7,1,2,0.1
+"physical fitness",78,1,2,7,2,0
+"instability",76,2,4,5,0,0
+"knee joint",75,4,7,3,2,0.1
+"mental health",75,6,4,7,1,0.005
+"injury mechanism",74,2,1,6,2,0.1
+"reliability",74,5,5,2,0,0.085
+"surveillance",73,1,5,7,0,0.04
+"achilles tendon",72,2,7,1,2,0.215
+"elite athlete",71,1,3,7,2,0.1
+"exercise therapy",71,4,2,6,2,0.175
+"kinetics",71,4,6,2,0,0.3
+"review",71,2,5,1,0,0.065
+"depression",70,6,4,7,1,0.205
+"overuse",70,1,4,6,0,0
+"snowboarding",70,3,3,4,0,0.1
+"diagnosis",69,2,5,1,0,0.2
+"eccentric exercise",68,7,2,6,0,0
+"emergency department",68,2,5,8,0,0.04
+"gymnastics",68,1,3,7,2,0
+"orthopedics",68,2,7,1,2,0.07
+"injury rate",67,1,1,7,2,0.085
+"anxiety",66,6,4,7,1,0.205
+"neuromuscular training",66,1,2,6,0,0.11
+"chronic traumatic encephalopathy",65,3,1,8,0,0.6
+"foot",65,2,6,5,0,0.385
+"posterior cruciate ligament",65,2,7,3,0,0.22
+"deep learning",64,8,5,6,0,0
+"imaging",64,2,5,1,0,0.205
+"injury incidence",64,1,1,7,2,0.105
+"range of motion",64,4,6,6,0,0.105
+"contact sport",63,3,3,8,2,0
+"disability",63,1,5,7,0,0.005
+"stress",63,6,4,7,1,0
+"athletics",62,1,3,7,2,0.195
+"shoulder injury",62,4,7,6,2,0.1
+"sprain",62,2,7,5,2,0.025
+"dislocation",61,2,6,5,0,0
+"handball",61,1,3,6,2,0
+"meta analysis",61,6,5,6,0,0.15
+"dental trauma",60,3,1,7,0,0.1
+"flexibility",60,4,6,6,0,0.205
+"safety",59,1,4,7,0,0.06
+"screening",59,1,5,6,0,0.04
+"education",58,1,4,7,0,0.035
+"helmet",58,3,5,4,0,0.65
+"low back pain",58,1,7,6,0,0.09
+"cartilage",57,2,7,5,0,0.33
+"hamstring injury",57,2,7,6,2,0.2
+"public health",57,1,4,7,1,0.06
+"risk",57,1,4,7,0,0.175
+"functional movement screen",56,1,6,7,0,0
+"tennis",56,2,3,6,2,0
+"implementation",55,1,5,7,0,0.005
+"sex difference",55,3,8,7,0,0.1
+"validity",54,5,5,2,0,0.085
+"muscle damage",53,7,1,6,2,0.19
+"skeletal muscle",53,7,6,6,0,0
+"gait",52,4,6,6,0,0.205
+"hand",52,2,6,1,0,0.225
+"women",52,1,8,7,0,0.1
+"aging",51,7,4,6,0,0.035
+"assessment",51,1,5,7,0,0.015
+"bone",51,2,6,5,0,0.24
+"cognition",51,3,4,8,0,0.015
+"injury epidemiology",51,1,1,7,2,0.32
+"obesity",51,1,4,6,0,0.125
+"track and field",51,1,3,7,2,0
+"achilles tendon rupture",50,2,7,6,2,0.185
+"adolescent athlete",50,1,3,7,2,0.1
+"combat sport",50,7,3,7,2,0.19
+"randomized controlled trial",50,4,5,6,0,0.04
