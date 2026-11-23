@@ -1,0 +1,11 @@
+"rank","most_stable","stability","least_stable","stability_least"
+1,"football",0.96555023923445,"balance",0.185820020690479
+2,"rugby",0.934928229665072,"emergency department",0.294603301031523
+3,"baseball",0.93317384370016,"surveillance",0.345800474849685
+4,"traumatic brain injury",0.93237639553429,"physical therapy",0.361641719043544
+5,"basketball",0.93237639553429,"pediatrics",0.380505476635508
+6,"chronic traumatic encephalopathy",0.93237639553429,"screening",0.393820837066723
+7,"handball",0.924401913875598,"aging",0.394738997627217
+8,"mild traumatic brain injury",0.91786283891547,"outcome",0.399054037411541
+9,"brain injury",0.916427432216906,"platelet rich plasma",0.407161337114897
+10,"biomechanics",0.909090909090909,"public health",0.41376093309041

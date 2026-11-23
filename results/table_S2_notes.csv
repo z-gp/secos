@@ -1,0 +1,7 @@
+"item","value"
+"reference ARI, final corpus with other seeds",0.629293431336908
+"reference NMI, final corpus with other seeds",0.661622107720862
+"broader rule: records",34027
+"broader rule: top 171 terms in common",156
+"broader rule: Jaccard index",0.838709677419355
+"broader rule: ARI",0.518231520943648

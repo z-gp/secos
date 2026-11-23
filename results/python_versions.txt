@@ -1,0 +1,8 @@
+python 3.10
+transformers 4.30.2
+tokenizers 0.13.3
+torch 2.0.1+cpu
+commit scibert 24f92d32b1bfb0bcaf9ab193ff3ad01e87732fc1
+commit sbert e8c3b32edf5434bc2275fc9bab85f82640a19130
+commit pubmed d673b8835373c6fa116d6d8006b33d48734e305d
+commit scibert in context 24f92d32b1bfb0bcaf9ab193ff3ad01e87732fc1

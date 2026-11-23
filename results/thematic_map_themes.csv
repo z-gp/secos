@@ -1,0 +1,53 @@
+"groups","words","name_full","n","centrality","density","rcentrality","rdensity","name","color","freq","quadrant"
+1,"sports injury 13.9
+epidemiology 4.9
+injury prevention 4.7
+prevention 2.6
+soccer 2.5
+sports medicine 2.5
+football 2.5
+risk factor 1.9
+incidence 0.9
+overuse injury 0.9","sports injury
+epidemiology
+injury prevention",25,0.0228060223578807,0.686074021970319,5,5,"sports injury","#E41A1C80",8820,"motor"
+2,"anterior cruciate ligament 7.7
+rehabilitation 6.1
+return to sport 4.8
+knee 4.1
+anterior cruciate ligament reconstruction 3
+biomechanics 2.8
+knee injury 2.1
+anterior cruciate ligament injury 1.6
+physical therapy 1.5
+electromyography 1.3","anterior cruciate ligament
+rehabilitation
+return to sport",20,0.0168592351610953,0.650227536806817,4,4,"anterior cruciate ligament","#377EB880",5920,"motor"
+3,"concussion 13.5
+traumatic brain injury 5.6
+mild traumatic brain injury 4.8
+return to play 4.3
+head injury 2.8
+sport related concussion 2.2
+brain injury 2.2","concussion
+traumatic brain injury
+mild traumatic brain injury",7,0.00766555840862093,0.514721904378086,1,2,"concussion","#4DAF4A80",2315,"emerging or declining"
+4,"athlete 10.4
+adolescent 7.4
+trauma 5
+children 4.8
+fracture 3.2
+pediatric 3.2
+pain 2.2
+wounds and injury 1.6","athlete
+adolescent
+trauma",8,0.0143351148043797,0.457049992007872,3,1,"athlete","#984EA380",2695,"basic"
+5,"magnetic resonance imaging 5.1
+shoulder 3.2
+ankle 2.8
+ultrasound 2.3
+muscle injury 2.3
+hamstring 2.1
+muscle 1.7","magnetic resonance imaging
+shoulder
+ankle",7,0.00919076689423879,0.627959246215142,2,3,"magnetic resonance imaging","#FF7F0080",1408,"niche"

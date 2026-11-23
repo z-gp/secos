@@ -1,0 +1,26 @@
+ischemi
+ischaemi
+reperfusion
+\bmyocard
+cardiac injur
+\bkidneys?\b
+\brenal\b
+\bnephro
+\bliver\b
+\bhepat
+\bmice\b
+\bmouse\b
+\bmurine\b
+\brats?\b
+\brodents?\b
+in vitro
+spinal cord injur
+\bstrokes?\b
+older adults?.{0,40}fall
+elderly.{0,40}fall
+fall prevention
+\bhorses?\b
+\bequine\b
+\bthoroughbred
+\bcanine\b
+\bdogs?\b

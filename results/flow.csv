@@ -1,0 +1,9 @@
+"step","records"
+"broad query",81332
+"broad, years 1989-2025",79621
+"broad corpus (Article and Review)",74501
+"proximity query",30689
+"proximity, matched to the March export",29029
+"proximity, years 1989-2025",28387
+"proximity corpus (Article and Review)",25541
+"final corpus (exclusion terms)",21394

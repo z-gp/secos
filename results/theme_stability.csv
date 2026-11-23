@@ -1,0 +1,6 @@
+"theme","terms","mean_jaccard","min_jaccard","quadrant","same_quadrant","stable"
+"sports injury",25,0.866139601139601,0.766666666666667,"motor",5,TRUE
+"anterior cruciate ligament",20,0.869318181818182,0.8,"motor",5,TRUE
+"athlete",8,0.730555555555556,0.333333333333333,"basic",4,TRUE
+"concussion",7,0.802083333333333,0.583333333333333,"emerging or declining",5,TRUE
+"magnetic resonance imaging",7,0.933035714285714,0.857142857142857,"niche",4,TRUE

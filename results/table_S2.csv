@@ -1,0 +1,26 @@
+"measure","Broad","Proximity","Final"
+"Documents",74501,25541,21394
+"Documents with author keywords",61825,20741,17303
+"Compound growth rate 1991-2025 (%)",10.6619401368031,10.2535514714068,10.1600227443275
+"Quasi-Poisson growth rate (%)",10.2297053912641,10.1509295511726,10.3733395358945
+"  95% CI, lower",9.84690527737802,9.70548895855439,9.84017117367191
+"  95% CI, upper",10.6138395065663,10.5981787800171,10.9090959175951
+"Share of documents 2021-2025 (%)",39.3471228574113,40.9185231588426,42.0071047957371
+"Citations per document",29.2757681104952,28.3220312438824,28.0875011685519
+"Distinct authors",184597,74991,61080
+"Lotka exponent",2.2992101279339,2.53896261635431,2.55833957759125
+"Share of the USA (%)",33.0270115958184,31.4600047660656,31.9064116558303
+"Top 10 countries in common with the final corpus",9,9,10
+"Spearman correlation, top 20 countries",0.972932330827068,0.990977443609023,1
+"Top 20 institutions in common",15,18,20
+"Spearman correlation, top 20 institutions",0.58239294139164,0.884123651337438,1
+"Top 20 documents by citations still in the final corpus",1,19,20
+"Terms with at least 50 documents",743,206,171
+"Top 171 terms in common",132,157,171
+"Jaccard index, top 171 terms",0.628571428571429,0.848648648648649,1
+"Louvain communities, top 171 terms",7,6,8
+"ARI with the final corpus, top 171 terms",0.296678939939704,0.519524066655753,1
+"NMI with the final corpus, top 171 terms",0.414554849926964,0.596465664728963,1
+"ARI with the final corpus, threshold 50",0.163407357771137,0.482540946540346,1
+"NMI with the final corpus, threshold 50",0.302109433138683,0.540608705289237,1
+"Documents without a recognizable country",940,363,323

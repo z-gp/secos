@@ -1,0 +1,11 @@
+"a","b","k10"
+"scibert","scibert_context",0.425146198830409
+"scibert","sbert",0.391812865497076
+"scibert","pubmed",0.343859649122807
+"scibert","fasttext",0.341520467836257
+"scibert_context","sbert",0.494152046783626
+"scibert_context","pubmed",0.319298245614035
+"scibert_context","fasttext",0.521052631578947
+"sbert","pubmed",0.311111111111111
+"sbert","fasttext",0.433333333333333
+"pubmed","fasttext",0.287134502923977

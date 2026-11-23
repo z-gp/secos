@@ -1,0 +1,10 @@
+"filter","retained_sample","relevant_retained","precision","ci_low","ci_high","relevant_lost","relevant_lost_pct","corpus_size"
+"None (NEAR/10 query only)",200,125,0.625,0.556,0.689,0,0,25541
+"A: proximity in title or author keywords",71,51,0.718,0.605,0.81,74,59,9003
+"W: at least one of the five WoS categories",116,86,0.741,0.655,0.812,39,31,15076
+"B3: exclusion terms",170,124,0.729,0.658,0.791,1,1,21394
+"A + B3",60,51,0.85,0.739,0.919,74,59,7357
+"W + B3",105,85,0.81,0.724,0.873,40,32,13439
+"B3 + injury salience (>=2)",139,110,0.791,0.716,0.851,15,12,17021
+"B3 + injury salience (>=3)",123,101,0.821,0.744,0.879,24,19,14743
+"B3 + NEAR/5",115,86,0.748,0.661,0.818,39,31,15647
