@@ -1,0 +1,12 @@
+{
+  "title": "SeCoS (Semantic Conceptual Structure): code and data for \"Mapping sports injury research using bibliometric and embedding-based analysis\"",
+  "upload_type": "software",
+  "description": "R scripts, the documented function secos() and derived data that reproduce every number, table and figure of the article \"Mapping sports injury research using bibliometric and embedding-based analysis\" (G. Zammarchi and C. Pisanu, Computational Statistics) and of its Supplementary Material. The Web of Science records are not distributed; their identifiers are. The code is released under the MIT License and the data files under CC BY 4.0 (see README.md).",
+  "creators": [
+    {"name": "Zammarchi, Gianpaolo", "affiliation": "University of Cagliari"},
+    {"name": "Pisanu, Claudia", "affiliation": "University of Cagliari"}
+  ],
+  "keywords": ["bibliometrics", "conceptual structure", "multiple correspondence analysis", "word embeddings", "UMAP", "sports injury", "R"],
+  "license": "MIT",
+  "access_right": "open"
+}
