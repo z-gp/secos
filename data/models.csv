@@ -1,0 +1,4 @@
+"encoder","model","revision"
+"scibert","allenai/scibert_scivocab_uncased","24f92d32b1bfb0bcaf9ab193ff3ad01e87732fc1"
+"sbert","sentence-transformers/all-mpnet-base-v2","e8c3b32edf5434bc2275fc9bab85f82640a19130"
+"pubmed","microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract","d673b8835373c6fa116d6d8006b33d48734e305d"

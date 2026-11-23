@@ -1,0 +1,8 @@
+sport
+injury
+study
+result
+method
+research
+exercise
+physical activity
